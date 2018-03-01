@@ -1,0 +1,181 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 572314 */
+  src: url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.eot');
+  src: url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.svg#iconfont') format('svg');
+}
+#head{
+	width: 100%;
+	height: 1.5rem;
+	background-color: #fff;
+	border-bottom: .02rem solid #D6D7D2;
+	/* overflow: hidden; */
+	padding-top: .3rem;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.kuang{
+	width: 10.2rem;
+	height: .9rem;
+	margin: 0 auto;
+	background-color: #f1f1f1;
+	border: .03rem solid #ECECEC;
+	border-radius: .09rem;
+	line-height: .9rem;
+}
+.kuang a{
+	font-family: 'iconfont';
+	color: #6d6d6d;
+	font-size: .5rem;
+	float: left;
+	margin-left: .1rem;
+}
+.kuang span{
+	color: #6d6d6d;
+	font-size: .5rem;
+	float: left;
+	margin-left: .1rem;
+}
+
+/* 分类页开始 */
+.lan{
+	width: 100%;
+	height: 1.22rem;
+	/* background-color: hotpink; */
+	border-top: .02rem solid red;
+	margin-top: 1.5rem;
+	box-shadow: 0 .01rem .03rem .01rem #d2d2d2;
+}
+.lan_zuo{
+	width: 50%;
+	height: 100%;
+	border-bottom: .06rem solid #FE0056;
+
+}
+.lan_zuo p{
+	font-size: .48rem;
+	color: #FE0056;
+	text-align: center;
+	line-height: 1.22rem;
+	font-weight: bold;
+}
+.lan_you{
+	width: 50%;
+	height: 100%;
+	/* border-bottom: .06rem solid #FE0056; */
+	float: right;
+	margin-top: -1.22rem;
+}
+.lan_you p{
+	font-size: .48rem;
+	color: #9c9c9c;
+	text-align: center;
+	line-height: 1.22rem;
+	font-weight: bold;
+}
+.shangpin{
+	width: 100%;
+	height: auto;
+}
+.shangpin_title{
+	width: 100%;
+	height: 1rem;
+	/* background-color: #f99; */
+	/* text-align: center; */
+	/* line-height: 1rem; */
+	float: left;		
+	/* overflow: hidden; */
+}
+.shangpin_title span{
+	font-size: .5rem;
+	color: #616161;
+	float: left;
+	margin-top: .25rem;
+	margin-left: 4.4rem;
+}
+.shangpin_item{
+	width: 100%;
+	height: 2.7rem;
+	/* background-color: red; */
+	float: left;
+}
+.shangpin_item_1{
+	width: 25%;
+	height: 100%;
+	/* background-color: pink; */
+	float: left;
+}
+.shangpin_item_1 img{
+	width: 1.7rem;
+	height: 1.7rem;
+	margin: 0 auto;
+	margin-top: .3rem;
+}
+.shangpin_item_1 p{
+	font-size: .35rem;
+	color: #565656;
+	text-align: center;
+	font-family: "苹方";
+}
+
+
+/* 底部 */
+#foot{
+	width: 100%;
+	height: 1.5rem;
+	background-color: #fff;
+	border-top: .02rem solid #D6D7D2;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+.first{
+	width: 2.16rem;
+	height: 100%;
+	/* background-color: plum; */
+	float: left;
+}
+.first a{
+	font-family: 'iconfont';
+	color: #6d6d6d;
+	font-size: .5rem;
+	float: left;
+	margin-top: .3rem; 
+	margin-left: .73rem;
+}
+.first span{
+	font-family: 苹方;
+	color: #6d6d6d;
+	font-size: .3rem;
+	float: left;
+	margin-top: .1rem;
+	margin-left: .73rem;
+	/* margin-left: .2rem; */
+
+}
+.firstz{
+	width: 2.16rem;
+	height: 100%;
+	/* background-color: plum; */
+	float: left;
+}
+.firstz a{
+	font-family: 'iconfont';
+	color: #F20354;
+	font-size: .5rem;
+	float: left;
+	margin-top: .3rem; 
+	margin-left: .73rem;
+	font-weight: bold;
+}
+.firstz span{
+	font-family: 苹方;
+	color: #F20354;
+	font-size: .3rem;
+	float: left;
+	margin-top: .1rem;
+	margin-left: .73rem;
+}

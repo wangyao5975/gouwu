@@ -1,0 +1,236 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 572314 */
+  src: url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.eot');
+  src: url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_572314_wto07tpose6u5wmi.svg#iconfont') format('svg');
+}
+.geren{
+	width: 100%;
+	height: 3rem;
+	border-bottom: .02rem solid #d6d6d6;
+}
+.geren img{
+	width: 1.7rem;
+	height: 1.7rem;
+	border-radius: 50%;
+	float: left;
+	margin-left: .75rem;
+	margin-top: .65rem;
+}
+.geren_name{
+	width: 6.35rem;
+	height: 100%;
+	margin-left: .5rem;
+	/* background-color: red; */
+	float: left;
+}
+.geren_name a{
+	font-size: .5rem;
+	color: #2A3330;
+	margin-top: .85rem;
+}
+.geren_name_x{
+	width: 1.6rem;
+	height: .4rem;
+	background-color: #EB9E00;
+	border-radius: .4rem;
+}
+.geren_name_x h1{
+	font-size: .3rem;
+	font-weight: normal;
+	float: right;
+	margin-right: .15rem;
+	color: #fffff3;
+	line-height: .4rem;
+}
+.geren_icon{
+	font-family: 'iconfont';
+	font-size: .7rem;
+	color: #383C3B;
+	/* float: right; */
+	margin-right: .7rem;
+}
+/* .geren_name_x h2{
+	font-size: .55rem;
+	float: left;
+	color: #FFBC54;
+} */
+.dingdan{
+	width: 100%;
+	height: 1.3rem;
+	border-bottom: .02rem solid #d5d5d5;
+	
+}
+.dingdan p{
+	font-size: .45rem;
+	float: left;
+	color: #272727;
+	margin-left: .5rem;
+	margin-top: .37rem;
+}
+.dingdan a{
+	font-family: 'iconfont'; 
+	font-size: .45rem;
+	float: right;
+	color: #868686;
+	margin-right: .5rem;
+	margin-top: .37rem;
+}
+.daixuan{
+	width: 100%;
+	height: 2.1rem;
+	/* background-color: red; */
+	float: left;
+	border-bottom: .02rem solid #d5d5d5;
+}
+.daixuan_item{
+	width: 25%;
+	height: 100%;
+	/* background-color: pink; */
+	float: left;
+}
+.daixuan_item a{
+	/* width: .57rem;
+	height: .57rem; */
+	margin: 0 auto;
+	margin-top: .48rem;
+	font-family: 'iconfont';
+	font-size: .57rem;
+	color: #FF6AA0;
+	display: block;
+	text-align: center;
+}
+.daixuan_item span{
+	font-size: .48rem;
+	color: #272727;
+	display: block;
+	text-align: center;
+	font-family: "苹方";
+}
+.datu{
+	width: 100%;
+	height: 3.5rem;
+	border-bottom: .02rem solid #d5d5d5;
+	/* background-color: blue; */
+	float: left;
+}
+.datu img{
+	width: 100%;
+	height: 3rem;
+	margin-top: .25rem;
+}
+.myfirst{
+	width: 100%;
+	height: auto;
+	/* background-color: #FF56; */
+	border-bottom: .02rem solid #d5d5d5;
+	float: left;
+}
+.myone{
+	width: 100%;
+	height: 1.31rem;
+	border-bottom: .02rem solid #efefef;
+	/* line-height: 1.31rem; */
+}
+.myone2{
+	border-bottom: none;
+}
+.myone span{
+	font-family: 'iconfont';
+	font-size: .55rem;
+	color: #FD0156;
+	float: left;
+	margin-top: .35rem;
+	margin-left: .35rem;
+}
+.myone_zi{
+	font-family: '苹方';
+	font-size: .5rem;
+	color: #2c2c2c;
+	float: left;
+	margin-top: .35rem;
+	margin-left: .35rem;
+}
+.myone a{
+	font-family: 'iconfont';
+	font-size: .3rem;
+	color: #cccccc;
+	float: right;
+	margin-top: .5rem;
+	margin-right: .5rem;
+}
+.line{
+	width: 100%;
+	height: .24rem;
+	float: left;
+	background-color: #f8f8f8;
+	border-bottom: .02rem solid #efefef;
+
+}
+
+/* 底部 */
+.wuyong{
+	width: 100%;
+	height: 1.5rem;
+	background-color: darkblue;
+	margin-bottom: 0;
+	float: left;
+}
+#foot{
+	width: 100%;
+	height: 1.5rem;
+	background-color: #fff;
+	border-top: .02rem solid #D6D7D2;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+.first{
+	width: 2.16rem;
+	height: 100%;
+	/* background-color: plum; */
+	float: left;
+}
+.first a{
+	font-family: 'iconfont';
+	color: #6d6d6d;
+	font-size: .5rem;
+	float: left;
+	margin-top: .3rem; 
+	margin-left: .73rem;
+}
+.first span{
+	font-family: 苹方;
+	color: #6d6d6d;
+	font-size: .3rem;
+	float: left;
+	margin-top: .1rem;
+	margin-left: .73rem;
+	/* margin-left: .2rem; */
+
+}
+.firstz{
+	width: 2.16rem;
+	height: 100%;
+	/* background-color: plum; */
+	float: left;
+}
+.firstz a{
+	font-family: 'iconfont';
+	color: #F20354;
+	font-size: .5rem;
+	float: left;
+	margin-top: .3rem; 
+	margin-left: .73rem;
+	font-weight: bold;
+}
+.firstz span{
+	font-family: '苹方';
+	color: #F20354;
+	font-size: .3rem;
+	float: left;
+	margin-top: .1rem;
+	margin-left: .73rem;
+}
